@@ -24,7 +24,8 @@
 // OTHER DEALINGS IN THE SOFTWARE.
 #endregion
 
-using System.Data.SqlClient;
+
+using Microsoft.Data.SqlClient;
 
 namespace TableDependency.SqlClient.Extensions
 {

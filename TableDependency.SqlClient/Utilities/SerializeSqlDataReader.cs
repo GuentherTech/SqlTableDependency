@@ -24,9 +24,9 @@
 // OTHER DEALINGS IN THE SOFTWARE.
 #endregion
 
+using Microsoft.Data.SqlClient;
 using System.Collections.Generic;
 using System.Data;
-using System.Data.SqlClient;
 using System.Linq;
 
 namespace TableDependency.SqlClient.Utilities

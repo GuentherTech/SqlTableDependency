@@ -24,10 +24,10 @@
 // OTHER DEALINGS IN THE SOFTWARE.
 #endregion
 
+using Microsoft.Data.SqlClient;
 using System;
 using System.Collections.Generic;
 using System.Data;
-using System.Data.SqlClient;
 using System.Diagnostics;
 using System.Linq;
 using System.Text;

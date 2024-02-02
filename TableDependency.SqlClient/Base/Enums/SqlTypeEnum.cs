@@ -127,7 +127,7 @@
         Variant = 23,
         //
         // Summary:
-        //     An XML value. Obtain the XML as a string using the System.Data.SqlClient.SqlDataReader.GetValue(System.Int32)
+        //     An XML value. Obtain the XML as a string using the Microsoft.Data.SqlClient.SqlDataReader.GetValue(System.Int32)
         //     method or System.Data.SqlTypes.SqlXml.Value property, or as an System.Xml.XmlReader
         //     by calling the System.Data.SqlTypes.SqlXml.CreateReader method.
         Xml = 25,
